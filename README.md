@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add HUB-SDK Docs reference section (#7781)
